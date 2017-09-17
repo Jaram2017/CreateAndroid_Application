@@ -6,3 +6,5 @@
 > Wed. 19:30~ 
 ## what? 
 > to discuss problem to make own application 
+## contents
+>[wiki](https://github.com/Jaram2017/CreateAndroid_Application/wiki)
