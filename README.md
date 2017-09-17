@@ -1,1 +1,8 @@
 # CreateAndroid_Application
+
+## where? 
+> Engineering Bd 3, Room 107
+## when? 
+> Wed. 19:30~ 
+## what? 
+> to discuss problem to make own application 
