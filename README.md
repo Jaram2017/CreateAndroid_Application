@@ -11,7 +11,7 @@
 - 강진수 [mygit](https://github.com/ja01001/look_at_me)
 - 김나연
 - 양미경 
-- 여채린
+- 여채린 [android](https://github.com/ChaeLinYeo/jaram-android-project)
 - 윤지상
 - 이수진
 
