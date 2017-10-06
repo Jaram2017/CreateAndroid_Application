@@ -12,7 +12,7 @@
 - 김나연
 - 양미경 
 - 여채린 [android](https://github.com/ChaeLinYeo/jaram-android-project)
-- 윤지상
+- 윤지상 [Android](https://github.com/beargrllys/Android)
 - 이수진
 
 ## Contents
