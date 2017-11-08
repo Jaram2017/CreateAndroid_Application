@@ -13,7 +13,7 @@
 - 양미경 
 - 여채린 [android](https://github.com/ChaeLinYeo/jaram-android-project)
 - 윤지상 [Android](https://github.com/beargrllys/Android)
-- 이수진
+- 이수진 [android](https://github.com/Lee-Su-Jin/android)
 
 ## Contents
 >[wiki](https://github.com/Jaram2017/CreateAndroid_Application/wiki)
