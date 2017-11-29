@@ -9,7 +9,7 @@
 ## Team 
 - 정회성(스터디장)[MultiCal](https://github.com/Jaram2017/MultiCal)
 - 강진수 [passworld](https://github.com/ja01001/My_Passwords-)
-- 김나연
+- 김나연 [android](https://github.com/na2na8/Festival)
 - 여채린 [android](https://github.com/ChaeLinYeo/jaram-android-project)
 - 윤지상 [Android](https://github.com/beargrllys/Android)
 - 이수진 [android](https://github.com/Lee-Su-Jin/android)
